@@ -1,0 +1,9 @@
+Metric,Value
+Total Exam Questions,200
+Exact Match (Stage 1),16
+TF-IDF Graded (Stage 2),184
+Passed,38
+Failed,162
+Pass Rate (%),19.00%
+Mean Score,0.2025
+Mean CER (OCR quality),0.5980
